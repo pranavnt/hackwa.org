@@ -13,7 +13,7 @@ export default function Home() {
           name="description"
           content="HackWA is an in person high school hackathon in Seattle, WA on June 26th, 2022"
         />
-        <meta property="og:image" content="hackwa-square.png" />
+        <meta property="og:image" content="/hackwa-square.png" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div
